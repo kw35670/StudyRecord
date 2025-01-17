@@ -1,0 +1,8 @@
+📚今日の学習記録  5m
+
+1️⃣ テーマ: Git基礎
+2️⃣ 学習内容: Git初期設定、VSCODEでのGitの使い方
+3️⃣ 学び: git config --global user.nameコマンドを使用することでGitのユーザー名を設定できる。
+4️⃣ 次の予定: Git、GitHub
+
+#学習記録 #プログラミング
