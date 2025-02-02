@@ -1,0 +1,8 @@
+📚今日の学習記録  1h
+
+1️⃣ テーマ: TypeScript
+2️⃣ 学習内容: CodeLesson、
+3️⃣ 学び: unknownは方が不明な場合に使用する。
+4️⃣ 次の予定: 型ドリル（Normal）
+
+#学習記録 #プログラミング #TypeScript
