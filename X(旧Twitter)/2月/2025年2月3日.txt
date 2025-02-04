@@ -1,0 +1,8 @@
+📚今日の学習記録  1h
+
+1️⃣ テーマ: TypeScript、Lpic Level1
+2️⃣ 学習内容: 型初級編、問題演習
+3️⃣ 学び: Conditional Typesは型における条件分岐のこと
+4️⃣ 次の予定: TypeScript
+
+#学習記録 #プログラミング #TypeScript
