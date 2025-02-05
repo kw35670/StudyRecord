@@ -1,0 +1,8 @@
+📚今日の学習記録  2h
+
+1️⃣ テーマ: TypeScript
+2️⃣ 学習内容: UtilityType、型ドリル（NORMAL）
+3️⃣ 学び: Exclude<T, U>はTとUの共通部分を取り除く（対象差集合）。
+4️⃣ 次の予定: 型ドリル（NORMAL）の56行目から
+
+#学習記録 #プログラミング #TypeScript
