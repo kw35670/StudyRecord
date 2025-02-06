@@ -1,0 +1,8 @@
+📚今日の学習記録  1h
+
+1️⃣ テーマ: TypeScript
+2️⃣ 学習内容: 型ドリル（NORMAL）
+3️⃣ 学び: isはunknown 型や、any 型、Union 型の型の絞り込みができる。
+4️⃣ 次の予定: 型ドリル（NORMAL）の56行目から
+
+#学習記録 #プログラミング #TypeScript
