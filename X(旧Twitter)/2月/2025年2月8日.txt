@@ -1,0 +1,8 @@
+📚今日の学習記録  2h
+
+1️⃣ テーマ: React
+2️⃣ 学習内容: components, props, statu
+3️⃣ 学び: compomentsを使用することでパーツを再利用することができる。
+4️⃣ 次の予定: React入門（続き）
+
+#学習記録 #プログラミング #React
