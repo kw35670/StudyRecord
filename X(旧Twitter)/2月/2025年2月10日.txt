@@ -1,0 +1,8 @@
+📚今日の学習記録  1h
+
+1️⃣ テーマ: React
+2️⃣ 学習内容: useState, useEffect etc...
+3️⃣ 学び: const [状態, 状態の更新] = (初期値)
+4️⃣ 次の予定: React
+
+#学習記録 #プログラミング #React
