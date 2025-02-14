@@ -1,0 +1,8 @@
+📚今日の学習記録  1h
+
+1️⃣ テーマ: React
+2️⃣ 学習内容: Udemy（Todoアプリの作成）
+3️⃣ 学び: arrya.split(index, 1)でindexの要素を削除できる。
+4️⃣ 次の予定: React（Todoアプリ作成の続き）
+
+#学習記録 #プログラミング #React
