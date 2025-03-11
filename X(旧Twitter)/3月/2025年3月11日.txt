@@ -3,6 +3,6 @@
 1️⃣ テーマ: React（Udemy）
 2️⃣ 学習内容: AtomicDesignによるコンポーネントの分割方法
 3️⃣ 次の予定: ルーティングの基礎（続き）
-4️⃣ 学び: 様々なCSSの当て方（CSSModules, Emotionなど）
+4️⃣ 学び: コンポーネントをatoms,molecules,organismsなどで分割する
 
 #学習記録 #プログラミング #React
