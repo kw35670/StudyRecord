@@ -1,0 +1,8 @@
+📚今日の学習記録  1.0h
+
+1️⃣ テーマ: TypeScript, React
+2️⃣ 学習内容: Enumを使用した列挙型の使用方法、JSONPlaceholderでのデータ取得
+3️⃣ 次の予定: TypeScript基礎
+4️⃣ 学び: JSONPlaceholderで簡単に仮のAPIを使用することができる。
+
+#学習記録 #プログラミング #React
