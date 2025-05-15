@@ -1,4 +1,4 @@
-# コミット対象の日付（展開済み）
+# 日付リスト（展開済み）
 dates=(
   "2025-1-6" "2025-1-7" "2025-1-8" "2025-1-9" "2025-1-10"
   "2025-1-13" "2025-1-14"
@@ -25,7 +25,7 @@ dates=(
 )
 
 for date in "${dates[@]}"; do
-  # macOSではgdateを使う
+  # macOS対応用（gdate 使用）
   year=$(gdate -d "$date" +%-Y)
   month=$(gdate -d "$date" +%-m)
   day=$(gdate -d "$date" +%-d)
@@ -35,4 +35,7 @@ for date in "${dates[@]}"; do
   git add "$filename"
 
   GIT_COMMITTER_DATE="${date}T10:00:00" git commit --date="${date}T10:00:00" -m "学習記録の投稿"
+
+  # 各コミットごとにpush（GitHub上も日付がバラける）
+  git push origin main
 done
