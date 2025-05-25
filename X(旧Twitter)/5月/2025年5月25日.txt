@@ -1,0 +1,7 @@
+📚今日の学習記録    2.5h
+
+1️⃣ テーマ: RSpec
+2️⃣ 学習内容: describe, context, itなど
+3️⃣ 次の予定: before, allowなど
+
+#学習記録 #プログラミング #Rails
