@@ -1,0 +1,7 @@
+📚2025年8月13日の学習記録    1.0h
+
+1️⃣ テーマ: Ruby on Rails
+2️⃣ 学習内容: instagram風アプリにDart-Scssの導入
+3️⃣ 次の予定: instagram風アプリ作成（続き）
+
+#学習記録 #プログラミング #Ruby
