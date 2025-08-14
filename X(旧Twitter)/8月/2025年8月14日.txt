@@ -1,6 +1,6 @@
 📚2025年8月14日の学習記録    0.5h
 
-1️⃣ テーマ: Ruby on Rails
+1️⃣ テーマ: Ruby on Rails　
 2️⃣ 学習内容: Deviseのインストール、Userモデルの作成
 3️⃣ 次の予定: instagram風アプリ作成（続き）
 
