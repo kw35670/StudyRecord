@@ -1,7 +1,7 @@
-📚2025年9月6日の学習記録    0.5h
+📚2025年9月7日の学習記録    1.0h
 
 1️⃣ テーマ: React(Udemy)
-2️⃣ 学習内容: useRefで動画プレイヤー作成
+2️⃣ 学習内容: forwardRef, useImperativeHandleについて
 3️⃣ 次の予定: React続き
 
 #学習記録 #プログラミング #React
