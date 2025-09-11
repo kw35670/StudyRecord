@@ -1,7 +1,7 @@
-📚2025年9月10日の学習記録    0.5h
+📚2025年9月11日の学習記録    0.5h
 
 1️⃣ テーマ: React(Udemy)
-2️⃣ 学習内容: 不変性（immutability）
+2️⃣ 学習内容: 不変性（immutability） part2
 3️⃣ 次の予定: React続き
 
 #学習記録 #プログラミング #React
