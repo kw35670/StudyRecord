@@ -1,0 +1,7 @@
+📚2025年9月24日の学習記録    1.0h
+
+1️⃣ テーマ: React(Udemy)
+2️⃣ 学習内容: Reduxの状態管理方法、ActionCreator、Reduxtoolkitなど
+3️⃣ 次の予定: React続き
+
+#学習記録 #プログラミング #React
