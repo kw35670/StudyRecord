@@ -1,0 +1,7 @@
+📚2025年10月16日の学習記録    2.5h
+
+1️⃣ テーマ: TypeScript(Udemy)
+2️⃣ 学習内容: 関数コンポーネントに型定義、propsの型定義、Eventタイプ、useStateの型定義、型を使ったTodoアプリの作成
+3️⃣ 次の予定: TypeScript続き
+
+#学習記録 #プログラミング #React
